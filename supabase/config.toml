@@ -1,0 +1,4 @@
+project_id = "mhbtzpcvetniowtcabdv"
+
+[functions.study-buddy-chat]
+verify_jwt = false
