@@ -8,7 +8,9 @@ Built as a full-stack capstone project demonstrating AI integration, modern fron
 
 ## 🚀 Live Demo
 
-🔗 https://your-vercel-app-link.vercel.app
+🔗  https://quick-grasp-guide-9l4z74a60-suvasini911s-projects.vercel.app?_vercel_share=kGgygo1ym5IFLj6I3Z3yc0wCWUQDSAGb
+
+
 
 ---
 
@@ -54,20 +56,6 @@ Streaming AI Response to Frontend
 **Deployment**
 - Vercel (Frontend Hosting)
 - Supabase (Backend Functions)
-
----
-
-## 📷 Screenshots
-
-(Add screenshots here)
-
-Example:
-
-### Home Interface
-![Home Screenshot](screenshot1.png)
-
-### Quiz Generation Example
-![Quiz Screenshot](screenshot2.png)
 
 ---
 
