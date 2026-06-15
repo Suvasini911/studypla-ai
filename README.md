@@ -8,7 +8,7 @@ Built as a full-stack capstone project demonstrating AI integration, modern fron
 
 ## 🚀 Live Demo
 
-🔗  https://quick-grasp-guide-9l4z74a60-suvasini911s-projects.vercel.app?_vercel_share=kGgygo1ym5IFLj6I3Z3yc0wCWUQDSAGb
+🔗  https://quick-grasp-guide-76mxk2vzr-suvasini911s-projects.vercel.app/
 
 
 
